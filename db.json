@@ -1,0 +1,53 @@
+{
+"users" : 
+[{
+  "email": "mphinnessy0@gmail.com",
+  "password": "2055",
+  "id": 1,
+  "first_name": "Marys",
+  "last_name": "Phinnessy",
+  "gender": "Female",
+  "profile": "http://dummyimage.com/216x130.png/ff4444/ffffff"
+}, {
+  "email": "dlax1@msu.edu",
+  "password": "64043",
+  "id": 2,
+  "first_name": "Darda",
+  "last_name": "Lax",
+  "gender": "Female",
+  "profile": null
+}, {
+  "email": "nhumphries2@ftc.gov",
+  "password": "42495",
+  "id": 3,
+  "first_name": "Nelie",
+  "last_name": "Humphries",
+  "gender": "Female",
+  "profile": "http://dummyimage.com/214x234.bmp/fcccf7/ffffff"
+}, {
+  "email": "mreading3@addtoany.com",
+  "password": "1123",
+  "id": 4,
+  "first_name": "Matthew",
+  "last_name": "Reading",
+  "gender": "Male",
+  "profile": null
+}, {
+  "email": "mceeley4@free.fr",
+  "password": "16456",
+  "id": 5,
+  "first_name": "Milly",
+  "last_name": "Ceeley",
+  "gender": "Female",
+  "profile": "http://dummyimage.com/249x180.png/cc0000/ffffff"
+},
+{
+  "email": "plug@gmail.com",
+  "password": "16456",
+  "id": 5,
+  "first_name": "Milly",
+  "last_name": "Ceeley",
+  "gender": "Male",
+  "profile": "http://dummyimage.com/249x180.png/626366/ffffff"
+}]
+}
